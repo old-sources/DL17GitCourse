@@ -1,5 +1,6 @@
 Bienvenue sur mon super nouveau projet.
 
-Venez nombreux!
 
-Signé: le vengeur masqué
+Ce projet a été réalisé avec les DL17.
+
+Formidable!
