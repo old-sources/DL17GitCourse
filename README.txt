@@ -6,5 +6,7 @@ Formidable!
 
 Signé: le vengeur masqué
 
-Emmanuel s'est planté
 
+Signé: le vengeur masqué
+
+Moi j'aime bien les conflits!
