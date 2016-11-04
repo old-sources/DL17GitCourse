@@ -1,5 +1,10 @@
 Bienvenue sur mon super nouveau projet.
 
-Venez nombreux!
+Ce projet a été réalisé avec les DL17.
+
+Formidable!
 
 Signé: le vengeur masqué
+
+Emmanuel s'est planté
+
